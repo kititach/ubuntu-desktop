@@ -1,8 +1,8 @@
 # P.Itarun xOps-CPE 
 # kasmweb ubuntu desktop 20.04
-# user: kasm_user
+# user: admin
 # set env var before deploy
-# PASSWORD=changeme
+# PASSWORD=cpe2541
 #
 version: '3.3'
 services:
